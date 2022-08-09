@@ -1,0 +1,2 @@
+then you have to learn about the backend development.which includes node.js database manegment along with servers
+and more.
